@@ -1,5 +1,36 @@
 {
+<<<<<<< HEAD
   "devDependencies": {
     "webpack-bundle-analyzer": "^4.5.0"
+=======
+  "name": "food-festival",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "webpack --watch",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GhulamZaka/food-festival.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GhulamZaka/food-festival/issues"
+  },
+  "homepage": "https://github.com/GhulamZaka/food-festival#readme",
+  "devDependencies": {
+    "webpack": "^5.73.0",
+    "webpack-cli": "^4.10.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.0",
+    "save": "^2.5.0"
+>>>>>>> e853364b1724745bc495e6daa12fddcff6c5d928
   }
 }
